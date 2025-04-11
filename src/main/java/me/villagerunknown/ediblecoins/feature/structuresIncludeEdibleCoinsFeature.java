@@ -118,6 +118,8 @@ public class structuresIncludeEdibleCoinsFeature {
 				
 				if( COMMON_LOOT_TABLES.contains( registryKey ) || UNCOMMON_LOOT_TABLES.contains( registryKey ) ) {
 					poolBuilder
+							.with(ItemEntry.builder(edibleCoinFeature.EDIBLE_COPPER_COIN).weight(10))
+							.with(ItemEntry.builder(edibleCoinFeature.EDIBLE_IRON_COIN).weight(7))
 							.with(ItemEntry.builder(edibleCoinFeature.EDIBLE_GOLD_COIN).weight(5))
 							.rolls(UniformLootNumberProvider.create(0, 5));
 				} // if
@@ -125,13 +127,13 @@ public class structuresIncludeEdibleCoinsFeature {
 				if( RARE_LOOT_TABLES.contains( registryKey ) ) {
 					poolBuilder
 							.with(ItemEntry.builder(edibleCoinFeature.EDIBLE_EMERALD_COIN).weight(3))
-							.rolls(UniformLootNumberProvider.create(0, 3));
+							.rolls(UniformLootNumberProvider.create(0, 7));
 				}  // if
 				
 				if( EPIC_LOOT_TABLES.contains( registryKey ) ) {
 					poolBuilder
 							.with(ItemEntry.builder(edibleCoinFeature.EDIBLE_NETHERITE_COIN).weight(1))
-							.rolls(UniformLootNumberProvider.create(0, 1));
+							.rolls(UniformLootNumberProvider.create(0, 10));
 				} // if
 				
 				lootBuilder.pool(poolBuilder);

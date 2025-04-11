@@ -24,10 +24,14 @@ public class mobsDropEdibleCoinsFeature {
 						if( entity.getType().equals( EntityType.PIGLIN ) || entity.getType().equals( EntityType.PIGLIN_BRUTE ) ) {
 							coins.put( edibleCoinFeature.EDIBLE_GOLD_COIN, 1 );
 						} else if( mobsDropCoinsFeature.COMMON_MOB_DROPS.contains( entity.getType() ) ) {
+							coins.put( edibleCoinFeature.EDIBLE_COPPER_COIN, 1 );
+							coins.put( edibleCoinFeature.EDIBLE_IRON_COIN, 1 );
 							coins.put( edibleCoinFeature.EDIBLE_GOLD_COIN, 1 );
 						} else if( mobsDropCoinsFeature.RARE_MOB_DROPS.contains( entity.getType() ) ) {
+							coins.put( edibleCoinFeature.EDIBLE_GOLD_COIN, 1 );
 							coins.put( edibleCoinFeature.EDIBLE_EMERALD_COIN, 1 );
 						} else if( mobsDropCoinsFeature.EPIC_MOB_DROPS.contains( entity.getType() ) ) {
+							coins.put( edibleCoinFeature.EDIBLE_EMERALD_COIN, 1 );
 							coins.put( edibleCoinFeature.EDIBLE_NETHERITE_COIN, 1 );
 						} // if, else if ...
 						

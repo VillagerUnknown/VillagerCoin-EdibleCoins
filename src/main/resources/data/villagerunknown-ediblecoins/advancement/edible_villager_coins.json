@@ -5,6 +5,12 @@
       "conditions": {
         "items": [
           {
+            "items": "villagerunknown-ediblecoins:edible_copper_villager_coin"
+          },
+          {
+            "items": "villagerunknown-ediblecoins:edible_iron_villager_coin"
+          },
+          {
             "items": "villagerunknown-ediblecoins:edible_gold_villager_coin"
           },
           {

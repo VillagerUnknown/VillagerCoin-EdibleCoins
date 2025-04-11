@@ -1,11 +1,11 @@
 {
-  "parent": "villagerunknown-ediblecoins:pickup_edible_iron_coin",
+  "parent": "villagerunknown-ediblecoins:pickup_edible_copper_coin",
   "criteria": {
-    "edible_gold_villager_coin": {
+    "edible_iron_villager_coin": {
       "conditions": {
         "items": [
           {
-            "items": "villagerunknown-ediblecoins:edible_gold_villager_coin"
+            "items": "villagerunknown-ediblecoins:edible_iron_villager_coin"
           }
         ]
       },
@@ -16,20 +16,20 @@
     "announce_to_chat": true,
     "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
     "description": {
-      "translate": "advancements.ediblecoins.pickup_edible_gold_coin.description"
+      "translate": "advancements.ediblecoins.pickup_edible_iron_coin.description"
     },
     "icon": {
       "count": 1,
-      "id": "villagerunknown-ediblecoins:edible_gold_villager_coin"
+      "id": "villagerunknown-ediblecoins:edible_iron_villager_coin"
     },
     "show_toast": true,
     "title": {
-      "translate": "advancements.ediblecoins.pickup_edible_gold_coin.title"
+      "translate": "advancements.ediblecoins.pickup_edible_iron_coin.title"
     }
   },
   "requirements": [
     [
-      "edible_gold_villager_coin"
+      "edible_iron_villager_coin"
     ]
   ],
   "sends_telemetry_event": true

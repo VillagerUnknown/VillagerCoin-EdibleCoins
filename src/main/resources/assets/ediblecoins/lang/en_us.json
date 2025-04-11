@@ -9,9 +9,17 @@
 
   "tag.item.villagerunknown-ediblecoins.edible_villager_coin": "Edible Villager Coin",
 
+  "item.villagerunknown-ediblecoins.edible_copper_villager_coin": "Chocolate Copper Villager Coin",
+  "item.villagerunknown-ediblecoins.edible_iron_villager_coin": "Chocolate Iron Villager Coin",
   "item.villagerunknown-ediblecoins.edible_gold_villager_coin": "Chocolate Gold Villager Coin",
   "item.villagerunknown-ediblecoins.edible_emerald_villager_coin": "Chocolate Emerald Villager Coin",
   "item.villagerunknown-ediblecoins.edible_netherite_villager_coin": "Chocolate Netherite Villager Coin",
+
+  "advancements.ediblecoins.pickup_edible_copper_coin.title": "Take A Penny, Eat A Penny",
+  "advancements.ediblecoins.pickup_edible_copper_coin.description": "Acquire your first Edible Copper Villager Coin",
+
+  "advancements.ediblecoins.pickup_edible_iron_coin.title": "It's Not Ironic, It's Chocolate",
+  "advancements.ediblecoins.pickup_edible_iron_coin.description": "Acquire your first Edible Iron Villager Coin",
 
   "advancements.ediblecoins.pickup_edible_gold_coin.title": "Feeling A Little Gelty",
   "advancements.ediblecoins.pickup_edible_gold_coin.description": "Acquire your first Edible Gold Villager Coin",
