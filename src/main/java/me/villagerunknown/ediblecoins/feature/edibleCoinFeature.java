@@ -1,12 +1,13 @@
 package me.villagerunknown.ediblecoins.feature;
 
+import me.villagerunknown.ediblecoins.item.EdibleVillagerCoinItem;
 import me.villagerunknown.platform.util.RegistryUtil;
 import me.villagerunknown.villagercoin.feature.coinFeature;
-import me.villagerunknown.villagercoin.item.EdibleVillagerCoinItem;
 import net.minecraft.item.Item;
+import net.minecraft.item.ItemStack;
 import net.minecraft.util.Rarity;
 
-import static me.villagerunknown.villagercoin.Villagercoin.MOD_ID;
+import static me.villagerunknown.ediblecoins.Ediblecoins.MOD_ID;
 
 public class edibleCoinFeature {
 	
@@ -21,7 +22,7 @@ public class edibleCoinFeature {
 	}
 	
 	private static Item registerVillagerCoinItem( String id, Rarity rarity, int dropMinimum, int dropMaximum, float dropChance, Item.Settings settings ) {
-		Item item = RegistryUtil.registerItem( id, new EdibleVillagerCoinItem( settings, rarity, dropMinimum, dropMaximum, dropChance, 0 ), MOD_ID );
+		Item item = RegistryUtil.registerItem( id, new EdibleVillagerCoinItem( settings, rarity, dropMinimum, dropMaximum, dropChance ), MOD_ID );
 		RegistryUtil.addItemToGroup( coinFeature.CUSTOM_ITEM_GROUP_KEY, item );
 		return item;
 	}

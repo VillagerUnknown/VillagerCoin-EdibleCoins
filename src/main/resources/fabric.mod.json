@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "ediblecoins",
+  "id": "villagerunknown-ediblecoins",
   "version": "${version}",
   "name": "VillagerUnknown's Edible Coins",
-  "description": "Adds edible Villager Coins.",
+  "description": "Adds edible coins to the Villager Coin mod.",
   "authors": ["VillagerUnknown"],
   "contact": {
     "homepage":"https://github.com/VillagerUnknown",
@@ -11,7 +11,7 @@
     "issues":"https://github.com/VillagerUnknown/EdibleCoins/issues"
   },
   "license": "CC-BY-4.0",
-  "icon": "assets/villagercoin/villagerunknown-edible-coins.png",
+  "icon": "assets/ediblecoins/villagerunknown-edible-coins.png",
   "environment": "*",
   "entrypoints": {
     "client": [

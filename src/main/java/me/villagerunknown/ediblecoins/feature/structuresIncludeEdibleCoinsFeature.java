@@ -1,8 +1,6 @@
 package me.villagerunknown.ediblecoins.feature;
 
 import me.villagerunknown.ediblecoins.Ediblecoins;
-import me.villagerunknown.villagercoin.Villagercoin;
-import me.villagerunknown.villagercoin.feature.edibleCoinFeature;
 import net.fabricmc.fabric.api.loot.v3.LootTableEvents;
 import net.minecraft.loot.LootPool;
 import net.minecraft.loot.LootTable;
@@ -12,7 +10,6 @@ import net.minecraft.registry.RegistryKey;
 
 import java.util.Set;
 
-import static me.villagerunknown.villagercoin.feature.coinFeature.*;
 import static net.minecraft.loot.LootTables.*;
 
 public class structuresIncludeEdibleCoinsFeature {
@@ -121,13 +118,13 @@ public class structuresIncludeEdibleCoinsFeature {
 				
 				if( COMMON_LOOT_TABLES.contains( registryKey ) || UNCOMMON_LOOT_TABLES.contains( registryKey ) ) {
 					poolBuilder
-							.with(ItemEntry.builder(me.villagerunknown.villagercoin.feature.edibleCoinFeature.EDIBLE_GOLD_COIN).weight(5))
+							.with(ItemEntry.builder(edibleCoinFeature.EDIBLE_GOLD_COIN).weight(5))
 							.rolls(UniformLootNumberProvider.create(0, 5));
 				} // if
 
 				if( RARE_LOOT_TABLES.contains( registryKey ) ) {
 					poolBuilder
-							.with(ItemEntry.builder(me.villagerunknown.villagercoin.feature.edibleCoinFeature.EDIBLE_EMERALD_COIN).weight(3))
+							.with(ItemEntry.builder(edibleCoinFeature.EDIBLE_EMERALD_COIN).weight(3))
 							.rolls(UniformLootNumberProvider.create(0, 3));
 				}  // if
 				
