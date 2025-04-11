@@ -1,12 +1,6 @@
 # VillagerUnknown's Edible Coins Addon for Villager Coin
 
-Adds a custom currency, Villager Coin, and optionally adds the currency to loot tables, mob drops, and merchant trades.
-
-Villager Coin consists of 5 types of coins each with their own value: Copper, Iron, Gold, Emerald, and Netherite. 
-It also includes 3 types of edible coins to trick players: Gold, Emerald, and Netherite. 
-
-Each type of coin stacks up to 5,000 coins by default to reduce inventory clutter and can be converted between the different coins through the crafting table.
-The stack size can be configured, but it's limited to a maximum of 1073741822.
+Adds 3 types of edible coins to the Villager Coin mod: Gold, Emerald, and Netherite.
 
 **Features**
 
@@ -22,8 +16,8 @@ They're only available in Gold, Emerald, and Netherite. They cannot be crafted a
 
 **Options**
 
-* addEdibleCoinsToStructureLootTables - If this option and addCoinsToStructureLootTables are enabled: Adds Edible Coins to Structure loot tables. (Default: true)
-* addEdibleCoinsToMobDrops - If this option and addCoinsToMobDrops are enabled: Adds Edible Coins to Mob drops. (Default: true)
+* addEdibleCoinsToStructureLootTables - Adds Edible Coins to Structure loot tables. (Default: true)
+* addEdibleCoinsToMobDrops - Adds Edible Coins to Mob drops. (Default: true)
 
 ## Support
 
