@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "ediblecoins",
+  "version": "${version}",
+  "name": "VillagerUnknown's Edible Coins",
+  "description": "Adds edible Villager Coins.",
+  "authors": ["VillagerUnknown"],
+  "contact": {
+    "homepage":"https://github.com/VillagerUnknown",
+    "sources":"https://github.com/VillagerUnknown/EdibleCoins",
+    "issues":"https://github.com/VillagerUnknown/EdibleCoins/issues"
+  },
+  "license": "CC-BY-4.0",
+  "icon": "assets/villagercoin/villagerunknown-edible-coins.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "me.villagerunknown.ediblecoins.client.EdiblecoinsClient"
+    ],
+    "main": [
+      "me.villagerunknown.ediblecoins.Ediblecoins"
+    ],
+    "modmenu": [
+      "me.villagerunknown.ediblecoins.client.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "ediblecoins.mixins.json",
+    {
+      "config": "ediblecoins.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}",
+    "villagerunknown-platform": ">=1.2.0",
+    "villagerunknown-villagercoin": ">=1.0.1"
+  }
+}

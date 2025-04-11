@@ -1,0 +1,28 @@
+{
+
+  "text.autoconfig.villagerunknown-villagercoin.title": "VillagerUnknown's Edible Coins for Villager Coin",
+
+  "text.autoconfig.villagerunknown-villagercoin.category.General": "General",
+
+  "text.autoconfig.villagerunknown-villagercoin.option.addEdibleCoinsToStructureLootTables": "Add Edible Coins to Structure Loot Tables",
+  "text.autoconfig.villagerunknown-villagercoin.option.addEdibleCoinsToMobDrops": "Add Edible Coins to Mob Drops",
+
+  "tag.item.villagerunknown-villagercoin.edible_villager_coin": "Edible Villager Coin",
+
+  "item.villagerunknown-villagercoin.edible_gold_villager_coin": "Chocolate Gold Villager Coin",
+  "item.villagerunknown-villagercoin.edible_emerald_villager_coin": "Chocolate Emerald Villager Coin",
+  "item.villagerunknown-villagercoin.edible_netherite_villager_coin": "Chocolate Netherite Villager Coin",
+
+  "advancements.villagercoin.pickup_edible_gold_coin.title": "Feeling A Little Gelty",
+  "advancements.villagercoin.pickup_edible_gold_coin.description": "Acquire your first Edible Gold Villager Coin",
+
+  "advancements.villagercoin.pickup_edible_emerald_coin.title": "Hrm.. A Taste of Wealth",
+  "advancements.villagercoin.pickup_edible_emerald_coin.description": "Acquire your first Edible Emerald Villager Coin",
+
+  "advancements.villagercoin.pickup_edible_netherite_coin.title": "It Feels A Bit Stale",
+  "advancements.villagercoin.pickup_edible_netherite_coin.description": "Acquire your first Edible Netherite Villager Coin",
+
+  "advancements.villagercoin.edible_villager_coins.title": "The Cost Of Groceries",
+  "advancements.villagercoin.edible_villager_coins.description": "Acquire all of the edible Villager Coins"
+
+}
