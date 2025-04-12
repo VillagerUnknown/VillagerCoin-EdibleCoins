@@ -1,11 +1,11 @@
 {
-  "parent": "villagerunknown-ediblecoins:pickup_edible_emerald_coin",
+  "parent": "villagerunknown-villagercoin:pickup_edible_gold_coin",
   "criteria": {
-    "edible_netherite_villager_coin": {
+    "edible_emerald_villager_coin": {
       "conditions": {
         "items": [
           {
-            "items": "villagerunknown-ediblecoins:edible_netherite_villager_coin"
+            "items": "villagerunknown-villagercoin:edible_emerald_villager_coin"
           }
         ]
       },
@@ -16,20 +16,20 @@
     "announce_to_chat": true,
     "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
     "description": {
-      "translate": "advancements.ediblecoins.pickup_edible_netherite_coin.description"
+      "translate": "advancements.villagercoin.pickup_edible_emerald_coin.description"
     },
     "icon": {
       "count": 1,
-      "id": "villagerunknown-ediblecoins:edible_netherite_villager_coin"
+      "id": "villagerunknown-villagercoin:edible_emerald_villager_coin"
     },
     "show_toast": true,
     "title": {
-      "translate": "advancements.ediblecoins.pickup_edible_netherite_coin.title"
+      "translate": "advancements.villagercoin.pickup_edible_emerald_coin.title"
     }
   },
   "requirements": [
     [
-      "edible_netherite_villager_coin"
+      "edible_emerald_villager_coin"
     ]
   ],
   "sends_telemetry_event": true

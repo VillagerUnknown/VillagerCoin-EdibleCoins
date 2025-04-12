@@ -7,30 +7,30 @@
   "text.autoconfig.villagerunknown-ediblecoins.option.addEdibleCoinsToStructureLootTables": "Add Edible Coins to Structure Loot Tables",
   "text.autoconfig.villagerunknown-ediblecoins.option.addEdibleCoinsToMobDrops": "Add Edible Coins to Mob Drops",
 
-  "tag.item.villagerunknown-ediblecoins.edible_villager_coin": "Edible Villager Coin",
+  "tag.item.villagerunknown-villagercoin.edible_villager_coin": "Edible Villager Coin",
 
-  "item.villagerunknown-ediblecoins.edible_copper_villager_coin": "Chocolate Copper Villager Coin",
-  "item.villagerunknown-ediblecoins.edible_iron_villager_coin": "Chocolate Iron Villager Coin",
-  "item.villagerunknown-ediblecoins.edible_gold_villager_coin": "Chocolate Gold Villager Coin",
-  "item.villagerunknown-ediblecoins.edible_emerald_villager_coin": "Chocolate Emerald Villager Coin",
-  "item.villagerunknown-ediblecoins.edible_netherite_villager_coin": "Chocolate Netherite Villager Coin",
+  "item.villagerunknown-villagercoin.edible_copper_villager_coin": "Chocolate Copper Villager Coin",
+  "item.villagerunknown-villagercoin.edible_iron_villager_coin": "Chocolate Iron Villager Coin",
+  "item.villagerunknown-villagercoin.edible_gold_villager_coin": "Chocolate Gold Villager Coin",
+  "item.villagerunknown-villagercoin.edible_emerald_villager_coin": "Chocolate Emerald Villager Coin",
+  "item.villagerunknown-villagercoin.edible_netherite_villager_coin": "Chocolate Netherite Villager Coin",
 
-  "advancements.ediblecoins.pickup_edible_copper_coin.title": "Take A Penny, Eat A Penny",
-  "advancements.ediblecoins.pickup_edible_copper_coin.description": "Acquire your first Edible Copper Villager Coin",
+  "advancements.villagercoin.pickup_edible_copper_coin.title": "Take A Penny, Eat A Penny",
+  "advancements.villagercoin.pickup_edible_copper_coin.description": "Acquire your first Edible Copper Villager Coin",
 
-  "advancements.ediblecoins.pickup_edible_iron_coin.title": "It's Not Ironic, It's Chocolate",
-  "advancements.ediblecoins.pickup_edible_iron_coin.description": "Acquire your first Edible Iron Villager Coin",
+  "advancements.villagercoin.pickup_edible_iron_coin.title": "It's Not Ironic, It's Chocolate",
+  "advancements.villagercoin.pickup_edible_iron_coin.description": "Acquire your first Edible Iron Villager Coin",
 
-  "advancements.ediblecoins.pickup_edible_gold_coin.title": "Feeling A Little Gelty",
-  "advancements.ediblecoins.pickup_edible_gold_coin.description": "Acquire your first Edible Gold Villager Coin",
+  "advancements.villagercoin.pickup_edible_gold_coin.title": "Feeling A Little Gelty",
+  "advancements.villagercoin.pickup_edible_gold_coin.description": "Acquire your first Edible Gold Villager Coin",
 
-  "advancements.ediblecoins.pickup_edible_emerald_coin.title": "Hrm.. A Taste of Wealth",
-  "advancements.ediblecoins.pickup_edible_emerald_coin.description": "Acquire your first Edible Emerald Villager Coin",
+  "advancements.villagercoin.pickup_edible_emerald_coin.title": "Hrm.. A Taste of Wealth",
+  "advancements.villagercoin.pickup_edible_emerald_coin.description": "Acquire your first Edible Emerald Villager Coin",
 
-  "advancements.ediblecoins.pickup_edible_netherite_coin.title": "It's An Acquired Taste",
-  "advancements.ediblecoins.pickup_edible_netherite_coin.description": "Acquire your first Edible Netherite Villager Coin",
+  "advancements.villagercoin.pickup_edible_netherite_coin.title": "It's An Acquired Taste",
+  "advancements.villagercoin.pickup_edible_netherite_coin.description": "Acquire your first Edible Netherite Villager Coin",
 
-  "advancements.ediblecoins.edible_villager_coins.title": "The Cost Of Groceries",
-  "advancements.ediblecoins.edible_villager_coins.description": "Acquire all of the edible Villager Coins"
+  "advancements.villagercoin.edible_villager_coins.title": "The Cost Of Groceries",
+  "advancements.villagercoin.edible_villager_coins.description": "Acquire all of the edible Villager Coins"
 
 }

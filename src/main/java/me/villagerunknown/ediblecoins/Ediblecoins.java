@@ -1,8 +1,8 @@
 package me.villagerunknown.ediblecoins;
 
-import me.villagerunknown.ediblecoins.feature.edibleCoinFeature;
-import me.villagerunknown.ediblecoins.feature.mobsDropEdibleCoinsFeature;
-import me.villagerunknown.ediblecoins.feature.structuresIncludeEdibleCoinsFeature;
+import me.villagerunknown.ediblecoins.feature.loader.EdibleCoinFeatureLoader;
+import me.villagerunknown.ediblecoins.feature.MobsDropEdibleCoinsFeature;
+import me.villagerunknown.ediblecoins.feature.StructuresIncludeEdibleCoinsFeature;
 import me.villagerunknown.platform.Platform;
 import me.villagerunknown.platform.PlatformMod;
 import me.villagerunknown.platform.manager.featureManager;
@@ -26,10 +26,10 @@ public class Ediblecoins implements ModInitializer {
 		Platform.init_mod( MOD );
 		
 		// # Activate Features
-		featureManager.addFeature( "edibleCoin", edibleCoinFeature::execute );
+		featureManager.addFeature( "edibleCoinFeatureLoader", EdibleCoinFeatureLoader::execute );
 
-		featureManager.addFeature( "structuresIncludeEdibleCoins", structuresIncludeEdibleCoinsFeature::execute );
-		featureManager.addFeature( "mobsDropEdibleCoins", mobsDropEdibleCoinsFeature::execute );
+		featureManager.addFeature( "structuresIncludeEdibleCoins", StructuresIncludeEdibleCoinsFeature::execute );
+		featureManager.addFeature( "mobsDropEdibleCoins", MobsDropEdibleCoinsFeature::execute );
 	}
 	
 }
