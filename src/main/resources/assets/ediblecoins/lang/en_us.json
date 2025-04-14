@@ -2,31 +2,40 @@
 
   "text.autoconfig.villagerunknown-ediblecoins.title": "VillagerUnknown's Edible Coins for Villager Coin",
 
+  "text.autoconfig.villagerunknown-ediblecoins.category.General": "General",
+
+  "text.autoconfig.villagerunknown-ediblecoins.option.enableTheUnknown": "Enable The Unknown",
+
   "item.villagerunknown-villagercoin.edible_copper_villager_coin": "Chocolate Copper Villager Coin",
   "item.villagerunknown-villagercoin.edible_iron_villager_coin": "Chocolate Iron Villager Coin",
   "item.villagerunknown-villagercoin.edible_gold_villager_coin": "Chocolate Gold Villager Coin",
   "item.villagerunknown-villagercoin.edible_emerald_villager_coin": "Chocolate Emerald Villager Coin",
   "item.villagerunknown-villagercoin.edible_netherite_villager_coin": "Chocolate Netherite Villager Coin",
 
-  "advancements.villagercoin.edible_coins.root.title": "Edible Coins",
-  "advancements.villagercoin.edible_coins.root.description": "Consumed by Nitwits everywhere",
+  "item.villagerunknown-villagercoin.poisonous_edible_copper_villager_coin": "Poisonous Copper Villager Coin",
+
+  "advancements.villagerunknown-villagercoin.edible_coins.root.title": "Edible Coins",
+  "advancements.villagerunknown-villagercoin.edible_coins.root.description": "Consumed by Nitwits everywhere",
   
-  "advancements.villagercoin.pickup_edible_copper_coin.title": "Take A Penny, Eat A Penny",
-  "advancements.villagercoin.pickup_edible_copper_coin.description": "Acquire your first Edible Copper Villager Coin",
+  "advancements.villagerunknown-villagercoin.pickup_edible_copper_coin.title": "Take A Penny, Eat A Penny",
+  "advancements.villagerunknown-villagercoin.pickup_edible_copper_coin.description": "Acquire your first Edible Copper Villager Coin",
 
-  "advancements.villagercoin.pickup_edible_iron_coin.title": "It's Not Ironic, It's Chocolate",
-  "advancements.villagercoin.pickup_edible_iron_coin.description": "Acquire your first Edible Iron Villager Coin",
+  "advancements.villagerunknown-villagercoin.pickup_edible_iron_coin.title": "It's Not Ironic, It's Chocolate",
+  "advancements.villagerunknown-villagercoin.pickup_edible_iron_coin.description": "Acquire your first Edible Iron Villager Coin",
 
-  "advancements.villagercoin.pickup_edible_gold_coin.title": "Feeling A Little Gelty",
-  "advancements.villagercoin.pickup_edible_gold_coin.description": "Acquire your first Edible Gold Villager Coin",
+  "advancements.villagerunknown-villagercoin.pickup_edible_gold_coin.title": "Feeling A Little Gelty",
+  "advancements.villagerunknown-villagercoin.pickup_edible_gold_coin.description": "Acquire your first Edible Gold Villager Coin",
 
-  "advancements.villagercoin.pickup_edible_emerald_coin.title": "Hrm.. A Taste of Wealth",
-  "advancements.villagercoin.pickup_edible_emerald_coin.description": "Acquire your first Edible Emerald Villager Coin",
+  "advancements.villagerunknown-villagercoin.pickup_edible_emerald_coin.title": "Hrm.. A Taste of Wealth",
+  "advancements.villagerunknown-villagercoin.pickup_edible_emerald_coin.description": "Acquire your first Edible Emerald Villager Coin",
 
-  "advancements.villagercoin.pickup_edible_netherite_coin.title": "It's An Acquired Taste",
-  "advancements.villagercoin.pickup_edible_netherite_coin.description": "Acquire your first Edible Netherite Villager Coin",
+  "advancements.villagerunknown-villagercoin.pickup_edible_netherite_coin.title": "It's An Acquired Taste",
+  "advancements.villagerunknown-villagercoin.pickup_edible_netherite_coin.description": "Acquire your first Edible Netherite Villager Coin",
 
-  "advancements.villagercoin.edible_villager_coins.title": "The Cost Of Groceries",
-  "advancements.villagercoin.edible_villager_coins.description": "Acquire all of the edible Villager Coins"
+  "advancements.villagerunknown-villagercoin.pickup_poisonous_edible_copper_coin.title": "A Poisonous Currency",
+  "advancements.villagerunknown-villagercoin.pickup_poisonous_edible_copper_coin.description": "Acquire your first Poisonous Copper Villager Coin",
+
+  "advancements.villagerunknown-villagercoin.edible_villager_coins.title": "The Cost Of Groceries",
+  "advancements.villagerunknown-villagercoin.edible_villager_coins.description": "Acquire all of the edible Villager Coins"
 
 }
