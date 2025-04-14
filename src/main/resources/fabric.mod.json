@@ -3,7 +3,7 @@
   "id": "villagerunknown-ediblecoins",
   "version": "${version}",
   "name": "VillagerUnknown's Edible Coins",
-  "description": "Adds edible coins to the Villager Coin mod.",
+  "description": "Adds edible Copper, Iron, Gold, Emerald, and Netherite coins to Villager Coin.",
   "authors": ["VillagerUnknown"],
   "contact": {
     "homepage":"https://github.com/VillagerUnknown",

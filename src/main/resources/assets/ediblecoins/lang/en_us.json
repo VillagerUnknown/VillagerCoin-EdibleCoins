@@ -2,17 +2,15 @@
 
   "text.autoconfig.villagerunknown-ediblecoins.title": "VillagerUnknown's Edible Coins for Villager Coin",
 
-  "text.autoconfig.villagerunknown-ediblecoins.category.General": "General",
-
-  "text.autoconfig.villagerunknown-ediblecoins.option.addEdibleCoinsToStructureLootTables": "Add Edible Coins to Structure Loot Tables",
-  "text.autoconfig.villagerunknown-ediblecoins.option.addEdibleCoinsToMobDrops": "Add Edible Coins to Mob Drops",
-
   "item.villagerunknown-villagercoin.edible_copper_villager_coin": "Chocolate Copper Villager Coin",
   "item.villagerunknown-villagercoin.edible_iron_villager_coin": "Chocolate Iron Villager Coin",
   "item.villagerunknown-villagercoin.edible_gold_villager_coin": "Chocolate Gold Villager Coin",
   "item.villagerunknown-villagercoin.edible_emerald_villager_coin": "Chocolate Emerald Villager Coin",
   "item.villagerunknown-villagercoin.edible_netherite_villager_coin": "Chocolate Netherite Villager Coin",
 
+  "advancements.villagercoin.edible_coins.root.title": "Edible Coins",
+  "advancements.villagercoin.edible_coins.root.description": "Consumed by Nitwits everywhere",
+  
   "advancements.villagercoin.pickup_edible_copper_coin.title": "Take A Penny, Eat A Penny",
   "advancements.villagercoin.pickup_edible_copper_coin.description": "Acquire your first Edible Copper Villager Coin",
 

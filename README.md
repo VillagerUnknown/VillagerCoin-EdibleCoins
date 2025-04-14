@@ -12,11 +12,6 @@ They cannot be crafted and have the same food values as cookies.
 * Optionally find edible coins in vanilla structures.
 * Optionally earn edible coins by killing some vanilla mobs.
 
-**Options**
-
-* addEdibleCoinsToStructureLootTables - Adds Edible Coins to Structure loot tables. (Default: true)
-* addEdibleCoinsToMobDrops - Adds Edible Coins to Mob drops. (Default: true)
-
 ## Support
 
 * Request features and report bugs at https://github.com/VillagerUnknown/VillagerCoin-EdibleCoins/issues

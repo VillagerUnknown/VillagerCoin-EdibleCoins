@@ -1,5 +1,5 @@
 {
-  "parent": "villagerunknown-villagercoin:root",
+  "parent": "villagerunknown-villagercoin:edible_coins",
   "criteria": {
     "edible_copper_villager_coin": {
       "conditions": {
