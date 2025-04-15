@@ -1,6 +1,8 @@
 # VillagerUnknown's Edible Coins for Villager Coin
 
-Adds 5 types of edible coins to the Villager Coin mod: Copper, Iron, Gold, Emerald, and Netherite.
+_This is an addon mod for Villager Coin._
+
+Adds 5 types of edible coins, Copper, Iron, Gold, Emerald, and Netherite, to Villager Coin.
 
 Edible coins, optionally found in structures and dropped by mobs, trick players into thinking they've found valuable coins when they've really just found a bit of chocolate.
 They cannot be crafted and have the same food values as cookies.
