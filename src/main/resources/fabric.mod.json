@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "villagerunknown-ediblecoins",
   "version": "${version}",
-  "name": "VillagerUnknown's Edible Coins",
+  "name": "VillagerUnknown's Edible Coins for Villager Coin",
   "description": "Adds edible Copper, Iron, Gold, Emerald, and Netherite coins to Villager Coin.",
   "authors": ["VillagerUnknown"],
   "contact": {

@@ -12,6 +12,7 @@
   "item.villagerunknown-villagercoin.edible_emerald_villager_coin": "Chocolate Emerald Villager Coin",
   "item.villagerunknown-villagercoin.edible_netherite_villager_coin": "Chocolate Netherite Villager Coin",
 
+  "item.villagerunknown-villagercoin.half_eaten_edible_copper_villager_coin": "Half-Eaten Copper Villager Coin",
   "item.villagerunknown-villagercoin.poisonous_edible_copper_villager_coin": "Poisonous Copper Villager Coin",
 
   "advancements.villagerunknown-villagercoin.edible_coins.root.title": "Edible Coins",
@@ -31,6 +32,9 @@
 
   "advancements.villagerunknown-villagercoin.pickup_edible_netherite_coin.title": "It's An Acquired Taste",
   "advancements.villagerunknown-villagercoin.pickup_edible_netherite_coin.description": "Acquire your first Edible Netherite Villager Coin",
+
+  "advancements.villagerunknown-villagercoin.pickup_half_eaten_edible_copper_coin.title": "Not That Hungry",
+  "advancements.villagerunknown-villagercoin.pickup_half_eaten_edible_copper_coin.description": "Acquire your first Half-Eaten Copper Villager Coin",
 
   "advancements.villagerunknown-villagercoin.pickup_poisonous_edible_copper_coin.title": "A Poisonous Currency",
   "advancements.villagerunknown-villagercoin.pickup_poisonous_edible_copper_coin.description": "Acquire your first Poisonous Copper Villager Coin",

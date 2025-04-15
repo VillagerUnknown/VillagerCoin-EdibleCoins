@@ -15,18 +15,20 @@ public class EdibleCoinItems {
 	public static final Item EDIBLE_EMERALD_COIN;
 	public static final Item EDIBLE_NETHERITE_COIN;
 	
+	public static final Item HALF_EATEN_EDIBLE_COPPER_COIN;
 	public static final Item POISONOUS_EDIBLE_COPPER_COIN;
 	
 	public EdibleCoinItems() {}
 	
 	static {
-		EDIBLE_COPPER_COIN = EdibleCoinFeature.registerEdibleCoinItem( "edible_copper_" + CoinFeature.COIN_STRING, EdibleCoinFeature.COPPER_FOOD, CoinFeature.COPPER_RARITY, CoinFeature.COPPER_DROP_MINIMUM, EdibleCoinFeature.COPPER_DROP_MAXIMUM, EdibleCoinFeature.COPPER_DROP_CHANCE, StructuresIncludeCoinsFeature.COMMON_LOOT_TABLES, MobsDropCoinsFeature.COMMON_MOB_DROPS );
-		EDIBLE_IRON_COIN = EdibleCoinFeature.registerEdibleCoinItem( "edible_iron_" + CoinFeature.COIN_STRING, EdibleCoinFeature.IRON_FOOD, CoinFeature.IRON_RARITY, CoinFeature.IRON_DROP_MINIMUM, EdibleCoinFeature.IRON_DROP_MAXIMUM, EdibleCoinFeature.IRON_DROP_CHANCE, StructuresIncludeCoinsFeature.COMMON_LOOT_TABLES, MobsDropCoinsFeature.COMMON_MOB_DROPS );
-		EDIBLE_GOLD_COIN = EdibleCoinFeature.registerEdibleCoinItem( "edible_gold_" + CoinFeature.COIN_STRING, EdibleCoinFeature.GOLD_FOOD, CoinFeature.GOLD_RARITY, CoinFeature.GOLD_DROP_MINIMUM, EdibleCoinFeature.GOLD_DROP_MAXIMUM, EdibleCoinFeature.GOLD_DROP_CHANCE, StructuresIncludeCoinsFeature.UNCOMMON_LOOT_TABLES, MobsDropCoinsFeature.COMMON_MOB_DROPS );
-		EDIBLE_EMERALD_COIN = EdibleCoinFeature.registerEdibleCoinItem( "edible_emerald_" + CoinFeature.COIN_STRING, EdibleCoinFeature.EMERALD_FOOD, CoinFeature.EMERALD_RARITY, CoinFeature.EMERALD_DROP_MINIMUM, EdibleCoinFeature.EMERALD_DROP_MAXIMUM, EdibleCoinFeature.EMERALD_DROP_CHANCE, StructuresIncludeCoinsFeature.RARE_LOOT_TABLES, MobsDropCoinsFeature.RARE_MOB_DROPS );
-		EDIBLE_NETHERITE_COIN = EdibleCoinFeature.registerEdibleCoinItem( "edible_netherite_" + CoinFeature.COIN_STRING, EdibleCoinFeature.NETHERITE_FOOD, CoinFeature.NETHERITE_RARITY, CoinFeature.NETHERITE_DROP_MINIMUM, EdibleCoinFeature.NETHERITE_DROP_MAXIMUM, EdibleCoinFeature.NETHERITE_DROP_CHANCE, StructuresIncludeCoinsFeature.EPIC_LOOT_TABLES, MobsDropCoinsFeature.EPIC_MOB_DROPS );
+		EDIBLE_COPPER_COIN = EdibleCoinFeature.registerEdibleCoinItem( "edible_copper_" + CoinFeature.COIN_STRING, EdibleCoinFeature.COPPER_FOOD, CoinFeature.COPPER_RARITY, CoinFeature.COPPER_DROP_MINIMUM, EdibleCoinFeature.COPPER_DROP_MAXIMUM, EdibleCoinFeature.COPPER_DROP_CHANCE, StructuresIncludeCoinsFeature.COPPER_LOOT_TABLES, MobsDropCoinsFeature.COPPER_MOB_DROPS );
+		EDIBLE_IRON_COIN = EdibleCoinFeature.registerEdibleCoinItem( "edible_iron_" + CoinFeature.COIN_STRING, EdibleCoinFeature.IRON_FOOD, CoinFeature.IRON_RARITY, CoinFeature.IRON_DROP_MINIMUM, EdibleCoinFeature.IRON_DROP_MAXIMUM, EdibleCoinFeature.IRON_DROP_CHANCE, StructuresIncludeCoinsFeature.IRON_LOOT_TABLES, MobsDropCoinsFeature.IRON_MOB_DROPS );
+		EDIBLE_GOLD_COIN = EdibleCoinFeature.registerEdibleCoinItem( "edible_gold_" + CoinFeature.COIN_STRING, EdibleCoinFeature.GOLD_FOOD, CoinFeature.GOLD_RARITY, CoinFeature.GOLD_DROP_MINIMUM, EdibleCoinFeature.GOLD_DROP_MAXIMUM, EdibleCoinFeature.GOLD_DROP_CHANCE, StructuresIncludeCoinsFeature.GOLD_LOOT_TABLES, MobsDropCoinsFeature.GOLD_MOB_DROPS );
+		EDIBLE_EMERALD_COIN = EdibleCoinFeature.registerEdibleCoinItem( "edible_emerald_" + CoinFeature.COIN_STRING, EdibleCoinFeature.EMERALD_FOOD, CoinFeature.EMERALD_RARITY, CoinFeature.EMERALD_DROP_MINIMUM, EdibleCoinFeature.EMERALD_DROP_MAXIMUM, EdibleCoinFeature.EMERALD_DROP_CHANCE, StructuresIncludeCoinsFeature.EMERALD_LOOT_TABLES, MobsDropCoinsFeature.EMERALD_MOB_DROPS );
+		EDIBLE_NETHERITE_COIN = EdibleCoinFeature.registerEdibleCoinItem( "edible_netherite_" + CoinFeature.COIN_STRING, EdibleCoinFeature.NETHERITE_FOOD, CoinFeature.NETHERITE_RARITY, CoinFeature.NETHERITE_DROP_MINIMUM, EdibleCoinFeature.NETHERITE_DROP_MAXIMUM, EdibleCoinFeature.NETHERITE_DROP_CHANCE, StructuresIncludeCoinsFeature.NETHERITE_LOOT_TABLES, MobsDropCoinsFeature.NETHERITE_MOB_DROPS );
 		
-		POISONOUS_EDIBLE_COPPER_COIN = EdibleCoinFeature.registerEdibleCoinItem( "poisonous_edible_copper_" + CoinFeature.COIN_STRING, FoodComponents.POISONOUS_POTATO, CoinFeature.COPPER_RARITY, CoinFeature.NETHERITE_DROP_MINIMUM, EdibleCoinFeature.NETHERITE_DROP_MAXIMUM, EdibleCoinFeature.GOLD_DROP_CHANCE, StructuresIncludeCoinsFeature.COMMON_LOOT_TABLES, MobsDropCoinsFeature.COMMON_MOB_DROPS );
+		HALF_EATEN_EDIBLE_COPPER_COIN = EdibleCoinFeature.registerEdibleCoinItem( "half_eaten_edible_copper_" + CoinFeature.COIN_STRING, FoodComponents.POTATO, CoinFeature.COPPER_RARITY, CoinFeature.GOLD_DROP_MINIMUM, EdibleCoinFeature.GOLD_DROP_MAXIMUM, EdibleCoinFeature.IRON_DROP_CHANCE, StructuresIncludeCoinsFeature.COPPER_LOOT_TABLES, MobsDropCoinsFeature.COPPER_MOB_DROPS );
+		POISONOUS_EDIBLE_COPPER_COIN = EdibleCoinFeature.registerEdibleCoinItem( "poisonous_edible_copper_" + CoinFeature.COIN_STRING, FoodComponents.POISONOUS_POTATO, CoinFeature.COPPER_RARITY, CoinFeature.GOLD_DROP_MINIMUM, EdibleCoinFeature.GOLD_DROP_MAXIMUM, EdibleCoinFeature.GOLD_DROP_CHANCE, StructuresIncludeCoinsFeature.COPPER_LOOT_TABLES, MobsDropCoinsFeature.COPPER_MOB_DROPS );
 	}
 	
 }

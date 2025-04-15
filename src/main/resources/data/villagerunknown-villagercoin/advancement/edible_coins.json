@@ -1,9 +1,6 @@
 {
   "parent": "villagerunknown-villagercoin:root",
   "criteria": {
-    "pickup_poisonous_edible_copper_coin": {
-      "trigger": "minecraft:inventory_changed"
-    },
     "pickup_edible_copper_coin": {
       "trigger": "minecraft:inventory_changed"
     },
@@ -18,6 +15,12 @@
     },
     "pickup_edible_netherite_coin": {
       "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_half_eaten_edible_copper_coin": {
+      "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_poisonous_edible_copper_coin": {
+      "trigger": "minecraft:inventory_changed"
     }
   },
   "display": {
@@ -28,7 +31,7 @@
     },
     "icon": {
       "count": 1,
-      "id": "villagerunknown-villagercoin:edible_emerald_villager_coin"
+      "id": "villagerunknown-villagercoin:half_eaten_edible_copper_villager_coin"
     },
     "show_toast": false,
     "title": {
@@ -42,6 +45,7 @@
       "pickup_edible_gold_coin",
       "pickup_edible_emerald_coin",
       "pickup_edible_netherite_coin",
+      "pickup_half_eaten_edible_copper_coin",
       "pickup_poisonous_edible_copper_coin"
     ]
   ],

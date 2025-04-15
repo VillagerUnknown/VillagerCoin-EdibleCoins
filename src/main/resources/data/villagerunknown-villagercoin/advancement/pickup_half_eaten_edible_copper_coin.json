@@ -1,0 +1,36 @@
+{
+  "parent": "villagerunknown-villagercoin:pickup_edible_copper_coin",
+  "criteria": {
+    "half_eaten_edible_copper_villager_coin": {
+      "conditions": {
+        "items": [
+          {
+            "items": "villagerunknown-villagercoin:half_eaten_edible_copper_villager_coin"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
+    "description": {
+      "translate": "advancements.villagerunknown-villagercoin.pickup_half_eaten_edible_copper_coin.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "villagerunknown-villagercoin:half_eaten_edible_copper_villager_coin"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.villagerunknown-villagercoin.pickup_half_eaten_edible_copper_coin.title"
+    }
+  },
+  "requirements": [
+    [
+      "half_eaten_edible_copper_villager_coin"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,5 +1,5 @@
 {
-  "parent": "villagerunknown-villagercoin:edible_coins",
+  "parent": "villagerunknown-villagercoin:pickup_half_eaten_edible_copper_coin",
   "criteria": {
     "poisonous_edible_copper_villager_coin": {
       "conditions": {
