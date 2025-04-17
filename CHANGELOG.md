@@ -6,6 +6,7 @@ All notable changes to this project will be documented in this file.
 
 ### Changed
 
+- Changed supported version of Villager Coin to 1.0.2. This change corrects drop rates and loot table chances.
 - Changed chances of edible loot. Edible loot should now appear individually and very rarely.
 
 ## [1.0.0]
