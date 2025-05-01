@@ -25,9 +25,9 @@
     ]
   },
   "mixins": [
-    "ediblecoins.mixins.json",
+    "villagercoin-ediblecoins.mixins.json",
     {
-      "config": "ediblecoins.client.mixins.json",
+      "config": "villagercoin-ediblecoins.client.mixins.json",
       "environment": "client"
     }
   ],
@@ -36,6 +36,6 @@
     "fabric": "*",
     "minecraft": "${minecraft_version}",
     "villagerunknown-platform": ">=1.2.0",
-    "villagerunknown-villagercoin": ">=1.0.3"
+    "villagerunknown-villagercoin": ">=1.0.6"
   }
 }

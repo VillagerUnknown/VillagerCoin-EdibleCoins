@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.2]
+
+### Changed
+
+- Changed supported version of Villager Coin to 1.0.6.
+- Changed mixin filenames to avoid potential conflicts.
+
+## [1.0.2]
+
+### Changed
+
+- Changed supported version of Villager Coin to 1.0.3.
+
 ## [1.0.1]
 
 ### Changed
