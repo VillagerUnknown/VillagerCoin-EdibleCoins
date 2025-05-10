@@ -11,7 +11,7 @@
     "issues":"https://github.com/VillagerUnknown/VillagerCoin-EdibleCoins/issues"
   },
   "license": "CC-BY-4.0",
-  "icon": "assets/ediblecoins/villagerunknown-edible-coins.png",
+  "icon": "assets/villagerunknown-ediblecoins/villagerunknown-edible-coins.png",
   "environment": "*",
   "entrypoints": {
     "client": [
@@ -19,9 +19,6 @@
     ],
     "main": [
       "me.villagerunknown.ediblecoins.Ediblecoins"
-    ],
-    "modmenu": [
-      "me.villagerunknown.ediblecoins.client.ModMenuIntegration"
     ]
   },
   "mixins": [
@@ -35,7 +32,7 @@
     "fabricloader": ">=${loader_version}",
     "fabric": "*",
     "minecraft": "${minecraft_version}",
-    "villagerunknown-platform": ">=1.2.0",
-    "villagerunknown-villagercoin": ">=1.0.6"
+    "villagerunknown-platform": ">=1.3.0+1.21.1",
+    "villagerunknown-villagercoin": ">=1.0.8"
   }
 }

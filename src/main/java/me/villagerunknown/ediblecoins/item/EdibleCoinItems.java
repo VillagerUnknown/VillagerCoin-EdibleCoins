@@ -1,11 +1,14 @@
 package me.villagerunknown.ediblecoins.item;
 
+import me.villagerunknown.villagercoin.effect.StewEffects;
 import me.villagerunknown.villagercoin.feature.CoinFeature;
 import me.villagerunknown.villagercoin.feature.EdibleCoinFeature;
 import me.villagerunknown.villagercoin.feature.MobsDropCoinsFeature;
 import me.villagerunknown.villagercoin.feature.StructuresIncludeCoinsFeature;
 import net.minecraft.component.type.FoodComponents;
 import net.minecraft.item.Item;
+
+import java.util.List;
 
 public class EdibleCoinItems {
 	
@@ -17,6 +20,7 @@ public class EdibleCoinItems {
 	
 	public static final Item HALF_EATEN_EDIBLE_COPPER_COIN;
 	public static final Item POISONOUS_EDIBLE_COPPER_COIN;
+	public static final Item MOLDY_EDIBLE_GOLD_COIN;
 	
 	public EdibleCoinItems() {}
 	
@@ -29,6 +33,7 @@ public class EdibleCoinItems {
 		
 		HALF_EATEN_EDIBLE_COPPER_COIN = EdibleCoinFeature.registerEdibleCoinItem( "half_eaten_edible_copper_" + CoinFeature.COIN_STRING, FoodComponents.POTATO, CoinFeature.COPPER_RARITY, 0, 1, EdibleCoinFeature.IRON_DROP_CHANCE, 1, 1, 1, StructuresIncludeCoinsFeature.COPPER_LOOT_TABLES, MobsDropCoinsFeature.COPPER_MOB_DROPS );
 		POISONOUS_EDIBLE_COPPER_COIN = EdibleCoinFeature.registerEdibleCoinItem( "poisonous_edible_copper_" + CoinFeature.COIN_STRING, FoodComponents.POISONOUS_POTATO, CoinFeature.COPPER_RARITY, 0, 1, EdibleCoinFeature.GOLD_DROP_CHANCE, 1, 1, 1, StructuresIncludeCoinsFeature.COPPER_LOOT_TABLES, MobsDropCoinsFeature.COPPER_MOB_DROPS );
+		MOLDY_EDIBLE_GOLD_COIN = EdibleCoinFeature.registerEdibleCoinItem( "moldy_edible_gold_" + CoinFeature.COIN_STRING, EdibleCoinFeature.GOLD_FOOD, CoinFeature.GOLD_RARITY, 0, 1, EdibleCoinFeature.GOLD_DROP_CHANCE, 1, 1, 1, StructuresIncludeCoinsFeature.GOLD_LOOT_TABLES, MobsDropCoinsFeature.GOLD_MOB_DROPS, List.of(StewEffects.FIRE_RESISTANCE,StewEffects.BLINDNESS,StewEffects.SATURATION,StewEffects.NAUSEA,StewEffects.JUMP_BOOST,StewEffects.POISON,StewEffects.REGENERATION,StewEffects.NIGHT_VISION,StewEffects.WEAKNESS,StewEffects.WITHER) );
 	}
 	
 }
