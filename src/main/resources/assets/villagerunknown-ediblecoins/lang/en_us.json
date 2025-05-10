@@ -14,6 +14,7 @@
 
   "item.villagerunknown-villagercoin.half_eaten_edible_copper_villager_coin": "Half-Eaten Copper Villager Coin",
   "item.villagerunknown-villagercoin.poisonous_edible_copper_villager_coin": "Poisonous Copper Villager Coin",
+  "item.villagerunknown-villagercoin.moldy_edible_gold_villager_coin": "Moldy Gold Villager Coin",
 
   "advancements.villagerunknown-villagercoin.edible_coins.root.title": "Edible Coins",
   "advancements.villagerunknown-villagercoin.edible_coins.root.description": "Consumed by Nitwits everywhere",
@@ -38,6 +39,9 @@
 
   "advancements.villagerunknown-villagercoin.pickup_poisonous_edible_copper_coin.title": "A Poisonous Currency",
   "advancements.villagerunknown-villagercoin.pickup_poisonous_edible_copper_coin.description": "Acquire your first Poisonous Copper Villager Coin",
+
+  "advancements.villagerunknown-villagercoin.pickup_moldy_edible_gold_coin.title": "A Plumber's Currency",
+  "advancements.villagerunknown-villagercoin.pickup_moldy_edible_gold_coin.description": "Acquire your first Moldy Gold Villager Coin",
 
   "advancements.villagerunknown-villagercoin.edible_villager_coins.title": "The Cost Of Groceries",
   "advancements.villagerunknown-villagercoin.edible_villager_coins.description": "Acquire all of the edible Villager Coins"

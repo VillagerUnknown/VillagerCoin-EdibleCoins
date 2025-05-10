@@ -9,10 +9,9 @@ import org.slf4j.Logger;
 
 public class Ediblecoins implements ModInitializer {
 	
-	public static PlatformMod<EdiblecoinsConfigData> MOD = Platform.register( "ediblecoins", Ediblecoins.class, EdiblecoinsConfigData.class );
+	public static PlatformMod<?> MOD = Platform.register( "ediblecoins", Ediblecoins.class );
 	public static String MOD_ID = MOD.getModId();
 	public static Logger LOGGER = MOD.getLogger();
-	public static EdiblecoinsConfigData CONFIG = MOD.getConfig();
 	
 	@Override
 	public void onInitialize() {
@@ -25,6 +24,9 @@ public class Ediblecoins implements ModInitializer {
 		
 		// # Activate Features
 		featureManager.addFeature( "edibleCoinFeatureLoader", EdibleCoinFeatureLoader::execute );
+		
+		// # Load Features
+		featureManager.loadFeatures();
 	}
 	
 }
