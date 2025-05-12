@@ -15,11 +15,7 @@ public class Ediblecoins implements ModInitializer {
 	
 	@Override
 	public void onInitialize() {
-		// # Initialize Mod
-		init();
-	}
-	
-	private static void init() {
+		// # Initialize mod with Platform
 		Platform.init_mod( MOD );
 		
 		// # Activate Features
