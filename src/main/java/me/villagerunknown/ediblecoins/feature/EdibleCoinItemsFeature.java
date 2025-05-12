@@ -1,8 +1,8 @@
-package me.villagerunknown.ediblecoins.feature.loader;
+package me.villagerunknown.ediblecoins.feature;
 
 import me.villagerunknown.ediblecoins.item.EdibleCoinItems;
 
-public class EdibleCoinFeatureLoader {
+public class EdibleCoinItemsFeature {
 	
 	public static void execute() {
 		new EdibleCoinItems();
