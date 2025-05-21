@@ -10,7 +10,7 @@
     "sources":"https://github.com/VillagerUnknown/VillagerCoin-EdibleCoins",
     "issues":"https://github.com/VillagerUnknown/VillagerCoin-EdibleCoins/issues"
   },
-  "license": "CC-BY-4.0",
+  "license": "MIT",
   "icon": "assets/villagerunknown-ediblecoins/villagerunknown-edible-coins.png",
   "environment": "*",
   "entrypoints": {
