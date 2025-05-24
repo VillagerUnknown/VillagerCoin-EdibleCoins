@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.4]
+
+### Added
+
+- Added Moldy Gold Villager Coin that applies a random Stew Effect when consumed.
+
+### Changed
+
+- Changed supported Platform version to 1.3.0.
+- Changed supported Villager Coin version to 1.0.8.
+
+## [1.0.3]
+
+### Changed
+
+- Changed supported Villager Coin version to 1.0.7.
+
 ## [1.0.2]
 
 ### Changed
