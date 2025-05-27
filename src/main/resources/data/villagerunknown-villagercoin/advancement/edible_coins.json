@@ -21,6 +21,9 @@
     },
     "pickup_poisonous_edible_copper_coin": {
       "trigger": "minecraft:inventory_changed"
+    },
+    "pickup_moldy_edible_gold_coin": {
+      "trigger": "minecraft:inventory_changed"
     }
   },
   "display": {
@@ -46,7 +49,8 @@
       "pickup_edible_emerald_coin",
       "pickup_edible_netherite_coin",
       "pickup_half_eaten_edible_copper_coin",
-      "pickup_poisonous_edible_copper_coin"
+      "pickup_poisonous_edible_copper_coin",
+      "pickup_moldy_edible_gold_coin"
     ]
   ],
   "sends_telemetry_event": true

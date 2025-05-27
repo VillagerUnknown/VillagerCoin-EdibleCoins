@@ -10,9 +10,12 @@ They cannot be crafted and have the same food values as cookies.
 **Features**
 
 * Adds 5 edible coin items with no currency values: Copper, Iron, Gold, Emerald, and Netherite.
+* Adds a half-eaten edible copper villager coin.
+* Adds a poisonous edible copper villager coin.
+* Adds a moldy edible gold villager coin.
 * Adds advancements for obtaining edible coins.
 * Optionally find edible coins in vanilla structures.
-* Optionally earn edible coins by killing some vanilla mobs.
+* Optionally find edible coins by killing mobs.
 
 ## Support
 
