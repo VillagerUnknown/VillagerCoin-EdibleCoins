@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.5]
+
+### Added
+
+- Added Simplified Chinese translations by Github user Ansurfen.
+
 ## [1.0.4]
 
 ### Added

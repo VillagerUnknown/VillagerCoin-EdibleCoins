@@ -21,3 +21,10 @@ They cannot be crafted and have the same food values as cookies.
 
 * Request features and report bugs at https://github.com/VillagerUnknown/VillagerCoin-EdibleCoins/issues
 * View the changelog at https://github.com/VillagerUnknown/VillagerCoin-EdibleCoins/blob/main/CHANGELOG.md
+
+### Supported Languages
+
+A **HUGE** thanks to the users that contributed translations!
+
+* English
+* 简体中文 (Simplified Chinese) by Github user Ansurfen

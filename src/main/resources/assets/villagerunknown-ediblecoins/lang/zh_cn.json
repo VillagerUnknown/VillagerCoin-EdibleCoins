@@ -1,0 +1,49 @@
+{
+
+  "text.autoconfig.villagerunknown-ediblecoins.title": "VillagerUnknown's Edible Coins for Villager Coin",
+
+  "text.autoconfig.villagerunknown-ediblecoins.category.General": "通用设置",
+
+  "text.autoconfig.villagerunknown-ediblecoins.option.enableTheUnknown": "启用未知功能",
+
+  "item.villagerunknown-villagercoin.edible_copper_villager_coin": "巧克力铜村民币",
+  "item.villagerunknown-villagercoin.edible_iron_villager_coin": "巧克力铁村民币",
+  "item.villagerunknown-villagercoin.edible_gold_villager_coin": "巧克力金村民币",
+  "item.villagerunknown-villagercoin.edible_emerald_villager_coin": "巧克力绿宝石村民币",
+  "item.villagerunknown-villagercoin.edible_netherite_villager_coin": "巧克力下界合金村民币",
+
+  "item.villagerunknown-villagercoin.half_eaten_edible_copper_villager_coin": "吃了一半的铜村民币",
+  "item.villagerunknown-villagercoin.poisonous_edible_copper_villager_coin": "有毒的铜村民币",
+  "item.villagerunknown-villagercoin.moldy_edible_gold_villager_coin": "发霉的金村民币",
+
+  "advancements.villagerunknown-villagercoin.edible_coins.root.title": "可食用币",
+  "advancements.villagerunknown-villagercoin.edible_coins.root.description": "被傻子村民们食用",
+  
+  "advancements.villagerunknown-villagercoin.pickup_edible_copper_coin.title": "拿一个吃一个",
+  "advancements.villagerunknown-villagercoin.pickup_edible_copper_coin.description": "获得你的第一个巧克力铜村民币",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_iron_coin.title": "不是讽刺，是巧克力",
+  "advancements.villagerunknown-villagercoin.pickup_edible_iron_coin.description": "获得你的第一个巧克力铁村民币",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_gold_coin.title": "感觉有点内疚",
+  "advancements.villagerunknown-villagercoin.pickup_edible_gold_coin.description": "获得你的第一个巧克力金村民币",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_emerald_coin.title": "嗯...财富的味道",
+  "advancements.villagerunknown-villagercoin.pickup_edible_emerald_coin.description": "获得你的第一个巧克力绿宝石村民币",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_netherite_coin.title": "需要慢慢品味",
+  "advancements.villagerunknown-villagercoin.pickup_edible_netherite_coin.description": "获得你的第一个巧克力下界合金村民币",
+
+  "advancements.villagerunknown-villagercoin.pickup_half_eaten_edible_copper_coin.title": "不太饿",
+  "advancements.villagerunknown-villagercoin.pickup_half_eaten_edible_copper_coin.description": "获得你的第一个吃了一半的铜村民币",
+
+  "advancements.villagerunknown-villagercoin.pickup_poisonous_edible_copper_coin.title": "有毒的货币",
+  "advancements.villagerunknown-villagercoin.pickup_poisonous_edible_copper_coin.description": "获得你的第一个有毒的铜村民币",
+
+  "advancements.villagerunknown-villagercoin.pickup_moldy_edible_gold_coin.title": "水管工的货币",
+  "advancements.villagerunknown-villagercoin.pickup_moldy_edible_gold_coin.description": "获得你的第一个发霉的金村民币",
+
+  "advancements.villagerunknown-villagercoin.edible_villager_coins.title": "杂货的代价",
+  "advancements.villagerunknown-villagercoin.edible_villager_coins.description": "收集所有可食用的村民币"
+
+}
