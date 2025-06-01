@@ -1,0 +1,45 @@
+{
+
+  "text.autoconfig.villagerunknown-ediblecoins.title": "VillagerUnknown's Edible Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.edible_copper_villager_coin": "Ätbar Kopparmynt",
+  "item.villagerunknown-villagercoin.edible_iron_villager_coin": "Ätbar Järnmynt",
+  "item.villagerunknown-villagercoin.edible_gold_villager_coin": "Ätbar Guldmynt",
+  "item.villagerunknown-villagercoin.edible_emerald_villager_coin": "Ätbar Smaragdmynt",
+  "item.villagerunknown-villagercoin.edible_netherite_villager_coin": "Ätbar Netherritmynt",
+
+  "item.villagerunknown-villagercoin.half_eaten_edible_copper_villager_coin": "Mums!",
+  "item.villagerunknown-villagercoin.poisonous_edible_copper_villager_coin": "Ät dem alla",
+  "item.villagerunknown-villagercoin.moldy_edible_gold_villager_coin": "Ät ett ätbart mynt",
+
+  "advancements.villagerunknown-villagercoin.edible_coins.root.title": "Smakar fortfarande gott!",
+  "advancements.villagerunknown-villagercoin.edible_coins.root.description": "Ät alla ätbara mynt",
+  
+  "advancements.villagerunknown-villagercoin.pickup_edible_copper_coin.title": "Smak av koppar",
+  "advancements.villagerunknown-villagercoin.pickup_edible_copper_coin.description": "Ät ett ätbart kopparmynt",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_iron_coin.title": "Metallbit",
+  "advancements.villagerunknown-villagercoin.pickup_edible_iron_coin.description": "Ät ett ätbart järnmynt",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_gold_coin.title": "Gyldene smaker",
+  "advancements.villagerunknown-villagercoin.pickup_edible_gold_coin.description": "Ät ett ätbart guldmynt",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_emerald_coin.title": "Rikedomens smak",
+  "advancements.villagerunknown-villagercoin.pickup_edible_emerald_coin.description": "Ät ett ätbart smaragdmynt",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_netherite_coin.title": "Mörk delikatess",
+  "advancements.villagerunknown-villagercoin.pickup_edible_netherite_coin.description": "Ät ett ätbart netherritmynt",
+
+  "advancements.villagerunknown-villagercoin.pickup_half_eaten_edible_copper_coin.title": "Halv men god",
+  "advancements.villagerunknown-villagercoin.pickup_half_eaten_edible_copper_coin.description": "Ät ett halvätet kopparmynt",
+
+  "advancements.villagerunknown-villagercoin.pickup_poisonous_edible_copper_coin.title": "Det var inte mynta!",
+  "advancements.villagerunknown-villagercoin.pickup_poisonous_edible_copper_coin.description": "Ät ett giftigt kopparmynt",
+
+  "advancements.villagerunknown-villagercoin.pickup_moldy_edible_gold_coin.title": "Lite mögel skadar inte",
+  "advancements.villagerunknown-villagercoin.pickup_moldy_edible_gold_coin.description": "Ät ett mögligt guldmynt",
+
+  "advancements.villagerunknown-villagercoin.edible_villager_coins.title": "Ät dem alla",
+  "advancements.villagerunknown-villagercoin.edible_villager_coins.description": "Ät alla sorters ätbara mynt"
+
+}

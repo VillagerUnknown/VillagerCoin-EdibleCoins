@@ -1,0 +1,45 @@
+{
+
+  "text.autoconfig.villagerunknown-ediblecoins.title": "VillagerUnknown's Edible Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.edible_copper_villager_coin": "Essbare Kupfermünze",
+  "item.villagerunknown-villagercoin.edible_iron_villager_coin": "Essbare Eisenmünze",
+  "item.villagerunknown-villagercoin.edible_gold_villager_coin": "Essbare Goldmünze",
+  "item.villagerunknown-villagercoin.edible_emerald_villager_coin": "Essbare Smaragdmünze",
+  "item.villagerunknown-villagercoin.edible_netherite_villager_coin": "Essbare Netheritmünze",
+
+  "item.villagerunknown-villagercoin.half_eaten_edible_copper_villager_coin": "Lecker!",
+  "item.villagerunknown-villagercoin.poisonous_edible_copper_villager_coin": "Iss sie alle",
+  "item.villagerunknown-villagercoin.moldy_edible_gold_villager_coin": "Iss eine essbare Münze",
+
+  "advancements.villagerunknown-villagercoin.edible_coins.root.title": "Schmeckt immer noch gut!",
+  "advancements.villagerunknown-villagercoin.edible_coins.root.description": "Iss alle essbaren Münzen",
+  
+  "advancements.villagerunknown-villagercoin.pickup_edible_copper_coin.title": "Kupfergeschmack",
+  "advancements.villagerunknown-villagercoin.pickup_edible_copper_coin.description": "Iss eine essbare Kupfermünze",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_iron_coin.title": "Metallhappen",
+  "advancements.villagerunknown-villagercoin.pickup_edible_iron_coin.description": "Iss eine essbare Eisenmünze",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_gold_coin.title": "Goldener Genuss",
+  "advancements.villagerunknown-villagercoin.pickup_edible_gold_coin.description": "Iss eine essbare Goldmünze",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_emerald_coin.title": "Geschmack des Reichtums",
+  "advancements.villagerunknown-villagercoin.pickup_edible_emerald_coin.description": "Iss eine essbare Smaragdmünze",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_netherite_coin.title": "Dunkle Delikatesse",
+  "advancements.villagerunknown-villagercoin.pickup_edible_netherite_coin.description": "Iss eine essbare Netheritmünze",
+
+  "advancements.villagerunknown-villagercoin.pickup_half_eaten_edible_copper_coin.title": "Halb gegessen, immer noch gut",
+  "advancements.villagerunknown-villagercoin.pickup_half_eaten_edible_copper_coin.description": "Iss eine halb gegessene Kupfermünze",
+
+  "advancements.villagerunknown-villagercoin.pickup_poisonous_edible_copper_coin.title": "Nicht ganz Minze!",
+  "advancements.villagerunknown-villagercoin.pickup_poisonous_edible_copper_coin.description": "Iss eine giftige Kupfermünze",
+
+  "advancements.villagerunknown-villagercoin.pickup_moldy_edible_gold_coin.title": "Etwas schimmelig",
+  "advancements.villagerunknown-villagercoin.pickup_moldy_edible_gold_coin.description": "Iss eine verschimmelte Goldmünze",
+
+  "advancements.villagerunknown-villagercoin.edible_villager_coins.title": "Iss sie alle",
+  "advancements.villagerunknown-villagercoin.edible_villager_coins.description": "Iss alle Arten essbarer Münzen"
+
+}

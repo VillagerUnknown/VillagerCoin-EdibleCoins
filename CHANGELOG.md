@@ -7,6 +7,7 @@ All notable changes to this project will be documented in this file.
 ### Added
 
 - Added `villager_coin` item tag.
+- Added translations for German, Pirate English, Brazil Portuguese, Spanish, Hindi, Italian, Swedish, French, Korean, Japanese, Russian, and Hebrew.
 
 ## [1.0.5]
 

@@ -27,4 +27,15 @@ They cannot be crafted and have the same food values as cookies.
 A **HUGE** thanks to the users that contributed translations!
 
 * English
+* Pirate English
+* Svenska (Swedish)
+* Français (French)
+* Italiano (Italian)
+* Deutsch (German)
+* Português do Brasil (Brazil Portuguese)
+* Русский (Russian)
+* 한국어 (Korean)
 * 简体中文 (Simplified Chinese) by Github user Ansurfen
+* 日本語 (Japanese)
+* हिन्दी (Hindi)
+* (Hebrew) עברית
