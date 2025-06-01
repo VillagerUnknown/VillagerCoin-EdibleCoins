@@ -2,10 +2,6 @@
 
   "text.autoconfig.villagerunknown-ediblecoins.title": "VillagerUnknown's Edible Coins for Villager Coin",
 
-  "text.autoconfig.villagerunknown-ediblecoins.category.General": "General",
-
-  "text.autoconfig.villagerunknown-ediblecoins.option.enableTheUnknown": "Enable The Unknown",
-
   "item.villagerunknown-villagercoin.edible_copper_villager_coin": "Chocolate Copper Villager Coin",
   "item.villagerunknown-villagercoin.edible_iron_villager_coin": "Chocolate Iron Villager Coin",
   "item.villagerunknown-villagercoin.edible_gold_villager_coin": "Chocolate Gold Villager Coin",
