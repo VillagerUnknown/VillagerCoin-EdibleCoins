@@ -24,9 +24,7 @@ They cannot be crafted and have the same food values as cookies.
 
 ### Supported Languages
 
-A **HUGE** thanks to the users that contributed translations!
-
-* English
+* English _by VillagerUnknown_
 * Pirate English
 * Svenska (Swedish)
 * Français (French)
@@ -35,7 +33,9 @@ A **HUGE** thanks to the users that contributed translations!
 * Português do Brasil (Brazil Portuguese)
 * Русский (Russian)
 * 한국어 (Korean)
-* 简体中文 (Simplified Chinese) by Github user Ansurfen
+* 简体中文 (Simplified Chinese) _by Github user Ansurfen_
 * 日本語 (Japanese)
 * हिन्दी (Hindi)
 * (Hebrew) עברית
+
+_Disclaimer: Unless noted otherwise, translations have been provided by automated services._
