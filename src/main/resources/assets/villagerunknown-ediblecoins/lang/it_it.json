@@ -1,0 +1,45 @@
+{
+
+  "text.autoconfig.villagerunknown-ediblecoins.title": "VillagerUnknown's Edible Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.edible_copper_villager_coin": "Moneta di Rame Commestibile",
+  "item.villagerunknown-villagercoin.edible_iron_villager_coin": "Moneta di Ferro Commestibile",
+  "item.villagerunknown-villagercoin.edible_gold_villager_coin": "Moneta d’Oro Commestibile",
+  "item.villagerunknown-villagercoin.edible_emerald_villager_coin": "Moneta di Smeraldo Commestibile",
+  "item.villagerunknown-villagercoin.edible_netherite_villager_coin": "Moneta di Netherite Commestibile",
+
+  "item.villagerunknown-villagercoin.half_eaten_edible_copper_villager_coin": "Gnam!",
+  "item.villagerunknown-villagercoin.poisonous_edible_copper_villager_coin": "Mangiale tutte",
+  "item.villagerunknown-villagercoin.moldy_edible_gold_villager_coin": "Mangia una moneta commestibile",
+
+  "advancements.villagerunknown-villagercoin.edible_coins.root.title": "È ancora buona!",
+  "advancements.villagerunknown-villagercoin.edible_coins.root.description": "Mangia tutte le monete commestibili",
+  
+  "advancements.villagerunknown-villagercoin.pickup_edible_copper_coin.title": "Sapore di Rame",
+  "advancements.villagerunknown-villagercoin.pickup_edible_copper_coin.description": "Mangia una moneta di rame commestibile",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_iron_coin.title": "Boccone Metallico",
+  "advancements.villagerunknown-villagercoin.pickup_edible_iron_coin.description": "Mangia una moneta di ferro commestibile",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_gold_coin.title": "Gusto Dorato",
+  "advancements.villagerunknown-villagercoin.pickup_edible_gold_coin.description": "Mangia una moneta d’oro commestibile",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_emerald_coin.title": "Ricchezza da Gustare",
+  "advancements.villagerunknown-villagercoin.pickup_edible_emerald_coin.description": "Mangia una moneta di smeraldo commestibile",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_netherite_coin.title": "Delizia Oscura",
+  "advancements.villagerunknown-villagercoin.pickup_edible_netherite_coin.description": "Mangia una moneta di netherite commestibile",
+
+  "advancements.villagerunknown-villagercoin.pickup_half_eaten_edible_copper_coin.title": "Ancora Buona",
+  "advancements.villagerunknown-villagercoin.pickup_half_eaten_edible_copper_coin.description": "Mangia una moneta di rame già morsicata",
+
+  "advancements.villagerunknown-villagercoin.pickup_poisonous_edible_copper_coin.title": "Non Era Menta!",
+  "advancements.villagerunknown-villagercoin.pickup_poisonous_edible_copper_coin.description": "Mangia una moneta di rame velenosa",
+
+  "advancements.villagerunknown-villagercoin.pickup_moldy_edible_gold_coin.title": "Un Po’ Muffita",
+  "advancements.villagerunknown-villagercoin.pickup_moldy_edible_gold_coin.description": "Mangia una moneta d’oro ammuffita",
+
+  "advancements.villagerunknown-villagercoin.edible_villager_coins.title": "Assaggiale Tutte",
+  "advancements.villagerunknown-villagercoin.edible_villager_coins.description": "Mangia tutti i tipi di monete commestibili"
+
+}

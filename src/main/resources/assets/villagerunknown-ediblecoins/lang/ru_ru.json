@@ -1,0 +1,45 @@
+{
+
+  "text.autoconfig.villagerunknown-ediblecoins.title": "VillagerUnknown's Edible Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.edible_copper_villager_coin": "Съедобная медная монета",
+  "item.villagerunknown-villagercoin.edible_iron_villager_coin": "Съедобная железная монета",
+  "item.villagerunknown-villagercoin.edible_gold_villager_coin": "Съедобная золотая монета",
+  "item.villagerunknown-villagercoin.edible_emerald_villager_coin": "Съедобная изумрудная монета",
+  "item.villagerunknown-villagercoin.edible_netherite_villager_coin": "Съедобная незеритовая монета",
+
+  "item.villagerunknown-villagercoin.half_eaten_edible_copper_villager_coin": "Ням!",
+  "item.villagerunknown-villagercoin.poisonous_edible_copper_villager_coin": "Съешь их все",
+  "item.villagerunknown-villagercoin.moldy_edible_gold_villager_coin": "Съешь одну съедобную монету",
+
+  "advancements.villagerunknown-villagercoin.edible_coins.root.title": "Все еще вкусно!",
+  "advancements.villagerunknown-villagercoin.edible_coins.root.description": "Съешь все съедобные монеты",
+  
+  "advancements.villagerunknown-villagercoin.pickup_edible_copper_coin.title": "Вкус меди",
+  "advancements.villagerunknown-villagercoin.pickup_edible_copper_coin.description": "Съешь съедобную медную монету",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_iron_coin.title": "Железный вкус",
+  "advancements.villagerunknown-villagercoin.pickup_edible_iron_coin.description": "Съешь съедобную железную монету",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_gold_coin.title": "Золотой укус",
+  "advancements.villagerunknown-villagercoin.pickup_edible_gold_coin.description": "Съешь съедобную золотую монету",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_emerald_coin.title": "Изумрудное лакомство",
+  "advancements.villagerunknown-villagercoin.pickup_edible_emerald_coin.description": "Съешь съедобную изумрудную монету",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_netherite_coin.title": "Тёмное угощение",
+  "advancements.villagerunknown-villagercoin.pickup_edible_netherite_coin.description": "Съешь съедобную незеритовую монету",
+
+  "advancements.villagerunknown-villagercoin.pickup_half_eaten_edible_copper_coin.title": "Все еще съедобно",
+  "advancements.villagerunknown-villagercoin.pickup_half_eaten_edible_copper_coin.description": "Съешь надкусанную медную монету",
+
+  "advancements.villagerunknown-villagercoin.pickup_poisonous_edible_copper_coin.title": "Не мята!",
+  "advancements.villagerunknown-villagercoin.pickup_poisonous_edible_copper_coin.description": "Съешь ядовитую медную монету",
+
+  "advancements.villagerunknown-villagercoin.pickup_moldy_edible_gold_coin.title": "Все еще хрустит!",
+  "advancements.villagerunknown-villagercoin.pickup_moldy_edible_gold_coin.description": "Съешь заплесневелую золотую монету",
+
+  "advancements.villagerunknown-villagercoin.edible_villager_coins.title": "Съешь их все",
+  "advancements.villagerunknown-villagercoin.edible_villager_coins.description": "Съешь все виды съедобных монет"
+
+}

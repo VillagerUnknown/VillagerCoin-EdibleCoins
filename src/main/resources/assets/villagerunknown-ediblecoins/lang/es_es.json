@@ -1,0 +1,45 @@
+{
+
+  "text.autoconfig.villagerunknown-ediblecoins.title": "VillagerUnknown's Edible Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.edible_copper_villager_coin": "Moneda Comestible de Cobre",
+  "item.villagerunknown-villagercoin.edible_iron_villager_coin": "Moneda Comestible de Hierro",
+  "item.villagerunknown-villagercoin.edible_gold_villager_coin": "Moneda Comestible de Oro",
+  "item.villagerunknown-villagercoin.edible_emerald_villager_coin": "Moneda Comestible de Esmeralda",
+  "item.villagerunknown-villagercoin.edible_netherite_villager_coin": "Moneda Comestible de Netherita",
+
+  "item.villagerunknown-villagercoin.half_eaten_edible_copper_villager_coin": "¡Ñam!",
+  "item.villagerunknown-villagercoin.poisonous_edible_copper_villager_coin": "Cómelas todas",
+  "item.villagerunknown-villagercoin.moldy_edible_gold_villager_coin": "Come una moneda comestible",
+
+  "advancements.villagerunknown-villagercoin.edible_coins.root.title": "¡Todavía tiene buen sabor!",
+  "advancements.villagerunknown-villagercoin.edible_coins.root.description": "Come todas las monedas comestibles",
+  
+  "advancements.villagerunknown-villagercoin.pickup_edible_copper_coin.title": "Sabor a Cobre",
+  "advancements.villagerunknown-villagercoin.pickup_edible_copper_coin.description": "Come una moneda de cobre comestible",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_iron_coin.title": "Bocado Metálico",
+  "advancements.villagerunknown-villagercoin.pickup_edible_iron_coin.description": "Come una moneda de hierro comestible",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_gold_coin.title": "Dulce Dorado",
+  "advancements.villagerunknown-villagercoin.pickup_edible_gold_coin.description": "Come una moneda de oro comestible",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_emerald_coin.title": "Sabor a Fortuna",
+  "advancements.villagerunknown-villagercoin.pickup_edible_emerald_coin.description": "Come una moneda de esmeralda comestible",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_netherite_coin.title": "Delicia Oscura",
+  "advancements.villagerunknown-villagercoin.pickup_edible_netherite_coin.description": "Come una moneda de netherita comestible",
+
+  "advancements.villagerunknown-villagercoin.pickup_half_eaten_edible_copper_coin.title": "Sabe Igual",
+  "advancements.villagerunknown-villagercoin.pickup_half_eaten_edible_copper_coin.description": "Come una moneda de cobre a medio comer",
+
+  "advancements.villagerunknown-villagercoin.pickup_poisonous_edible_copper_coin.title": "¡No Era Menta!",
+  "advancements.villagerunknown-villagercoin.pickup_poisonous_edible_copper_coin.description": "Come una moneda de cobre venenosa",
+
+  "advancements.villagerunknown-villagercoin.pickup_moldy_edible_gold_coin.title": "¡Todavía Cruje!",
+  "advancements.villagerunknown-villagercoin.pickup_moldy_edible_gold_coin.description": "Come una moneda de oro mohosa",
+
+  "advancements.villagerunknown-villagercoin.edible_villager_coins.title": "Cómelas Todas",
+  "advancements.villagerunknown-villagercoin.edible_villager_coins.description": "Come cada tipo de moneda comestible"
+
+}

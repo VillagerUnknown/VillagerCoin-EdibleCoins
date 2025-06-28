@@ -2,10 +2,6 @@
 
   "text.autoconfig.villagerunknown-ediblecoins.title": "VillagerUnknown's Edible Coins for Villager Coin",
 
-  "text.autoconfig.villagerunknown-ediblecoins.category.General": "通用设置",
-
-  "text.autoconfig.villagerunknown-ediblecoins.option.enableTheUnknown": "启用未知功能",
-
   "item.villagerunknown-villagercoin.edible_copper_villager_coin": "巧克力铜村民币",
   "item.villagerunknown-villagercoin.edible_iron_villager_coin": "巧克力铁村民币",
   "item.villagerunknown-villagercoin.edible_gold_villager_coin": "巧克力金村民币",

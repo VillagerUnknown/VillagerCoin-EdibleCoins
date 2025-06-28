@@ -1,0 +1,45 @@
+{
+
+  "text.autoconfig.villagerunknown-ediblecoins.title": "VillagerUnknown's Edible Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.edible_copper_villager_coin": "Pièce en Cuivre Comestible",
+  "item.villagerunknown-villagercoin.edible_iron_villager_coin": "Pièce en Fer Comestible",
+  "item.villagerunknown-villagercoin.edible_gold_villager_coin": "Pièce en Or Comestible",
+  "item.villagerunknown-villagercoin.edible_emerald_villager_coin": "Pièce en Émeraude Comestible",
+  "item.villagerunknown-villagercoin.edible_netherite_villager_coin": "Pièce en Netherite Comestible",
+
+  "item.villagerunknown-villagercoin.half_eaten_edible_copper_villager_coin": "Miam !",
+  "item.villagerunknown-villagercoin.poisonous_edible_copper_villager_coin": "Mange-les toutes",
+  "item.villagerunknown-villagercoin.moldy_edible_gold_villager_coin": "Mange une pièce comestible",
+
+  "advancements.villagerunknown-villagercoin.edible_coins.root.title": "Toujours aussi bon !",
+  "advancements.villagerunknown-villagercoin.edible_coins.root.description": "Mange toutes les pièces comestibles",
+  
+  "advancements.villagerunknown-villagercoin.pickup_edible_copper_coin.title": "Goût de Cuivre",
+  "advancements.villagerunknown-villagercoin.pickup_edible_copper_coin.description": "Mange une pièce en cuivre comestible",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_iron_coin.title": "Bouchée Métallique",
+  "advancements.villagerunknown-villagercoin.pickup_edible_iron_coin.description": "Mange une pièce en fer comestible",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_gold_coin.title": "Délice Doré",
+  "advancements.villagerunknown-villagercoin.pickup_edible_gold_coin.description": "Mange une pièce en or comestible",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_emerald_coin.title": "Saveur de Richesse",
+  "advancements.villagerunknown-villagercoin.pickup_edible_emerald_coin.description": "Mange une pièce en émeraude comestible",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_netherite_coin.title": "Délice Ténébreux",
+  "advancements.villagerunknown-villagercoin.pickup_edible_netherite_coin.description": "Mange une pièce en netherite comestible",
+
+  "advancements.villagerunknown-villagercoin.pickup_half_eaten_edible_copper_coin.title": "Encore Bon",
+  "advancements.villagerunknown-villagercoin.pickup_half_eaten_edible_copper_coin.description": "Mange une pièce en cuivre à moitié mangée",
+
+  "advancements.villagerunknown-villagercoin.pickup_poisonous_edible_copper_coin.title": "C'était pas de la menthe !",
+  "advancements.villagerunknown-villagercoin.pickup_poisonous_edible_copper_coin.description": "Mange une pièce en cuivre empoisonnée",
+
+  "advancements.villagerunknown-villagercoin.pickup_moldy_edible_gold_coin.title": "Un peu moisi",
+  "advancements.villagerunknown-villagercoin.pickup_moldy_edible_gold_coin.description": "Mange une pièce en or moisie",
+
+  "advancements.villagerunknown-villagercoin.edible_villager_coins.title": "Mange-les toutes",
+  "advancements.villagerunknown-villagercoin.edible_villager_coins.description": "Mange tous les types de pièces comestibles"
+
+}

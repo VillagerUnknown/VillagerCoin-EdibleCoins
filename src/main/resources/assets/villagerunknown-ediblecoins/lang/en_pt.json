@@ -1,0 +1,45 @@
+{
+
+  "text.autoconfig.villagerunknown-ediblecoins.title": "VillagerUnknown's Edible Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.edible_copper_villager_coin": "Chompable Copper Doubloon",
+  "item.villagerunknown-villagercoin.edible_iron_villager_coin": "Chompable Iron Doubloon",
+  "item.villagerunknown-villagercoin.edible_gold_villager_coin": "Chompable Gold Doubloon",
+  "item.villagerunknown-villagercoin.edible_emerald_villager_coin": "Chompable Emerald Doubloon",
+  "item.villagerunknown-villagercoin.edible_netherite_villager_coin": "Chompable Netherite Doubloon",
+
+  "item.villagerunknown-villagercoin.half_eaten_edible_copper_villager_coin": "Yarr, Tasty!",
+  "item.villagerunknown-villagercoin.poisonous_edible_copper_villager_coin": "Gobble ‘Em All",
+  "item.villagerunknown-villagercoin.moldy_edible_gold_villager_coin": "Take a bite o’ a chompable coin",
+
+  "advancements.villagerunknown-villagercoin.edible_coins.root.title": "Still got some flavor!",
+  "advancements.villagerunknown-villagercoin.edible_coins.root.description": "Devour every chompable coin",
+  
+  "advancements.villagerunknown-villagercoin.pickup_edible_copper_coin.title": "Flavor o’ the Forge",
+  "advancements.villagerunknown-villagercoin.pickup_edible_copper_coin.description": "Munch a copper doubloon",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_iron_coin.title": "Iron in Yer Belly",
+  "advancements.villagerunknown-villagercoin.pickup_edible_iron_coin.description": "Munch an iron doubloon",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_gold_coin.title": "Tastes Like Treasure",
+  "advancements.villagerunknown-villagercoin.pickup_edible_gold_coin.description": "Munch a gold doubloon",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_emerald_coin.title": "A Wealthy Snack",
+  "advancements.villagerunknown-villagercoin.pickup_edible_emerald_coin.description": "Munch an emerald doubloon",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_netherite_coin.title": "Dark Delights",
+  "advancements.villagerunknown-villagercoin.pickup_edible_netherite_coin.description": "Munch a netherite doubloon",
+
+  "advancements.villagerunknown-villagercoin.pickup_half_eaten_edible_copper_coin.title": "Half Gone, Still Good",
+  "advancements.villagerunknown-villagercoin.pickup_half_eaten_edible_copper_coin.description": "Finish what’s left of a copper doubloon",
+
+  "advancements.villagerunknown-villagercoin.pickup_poisonous_edible_copper_coin.title": "That Weren’t Minty!",
+  "advancements.villagerunknown-villagercoin.pickup_poisonous_edible_copper_coin.description": "Munch a cursed copper doubloon",
+
+  "advancements.villagerunknown-villagercoin.pickup_moldy_edible_gold_coin.title": "Bit o’ Mold Never Hurt",
+  "advancements.villagerunknown-villagercoin.pickup_moldy_edible_gold_coin.description": "Munch a moldy gold doubloon",
+
+  "advancements.villagerunknown-villagercoin.edible_villager_coins.title": "A Coin for Every Tooth",
+  "advancements.villagerunknown-villagercoin.edible_villager_coins.description": "Sample the lot of edible doubloons"
+
+}
