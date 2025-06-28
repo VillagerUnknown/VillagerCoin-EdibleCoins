@@ -1,0 +1,45 @@
+{
+
+  "text.autoconfig.villagerunknown-ediblecoins.title": "VillagerUnknown's Edible Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.edible_copper_villager_coin": "食べられる銅のコイン",
+  "item.villagerunknown-villagercoin.edible_iron_villager_coin": "食べられる鉄のコイン",
+  "item.villagerunknown-villagercoin.edible_gold_villager_coin": "食べられる金のコイン",
+  "item.villagerunknown-villagercoin.edible_emerald_villager_coin": "食べられるエメラルドのコイン",
+  "item.villagerunknown-villagercoin.edible_netherite_villager_coin": "食べられるネザライトのコイン",
+
+  "item.villagerunknown-villagercoin.half_eaten_edible_copper_villager_coin": "もぐもぐ！",
+  "item.villagerunknown-villagercoin.poisonous_edible_copper_villager_coin": "全部食べちゃおう",
+  "item.villagerunknown-villagercoin.moldy_edible_gold_villager_coin": "食べられるコインを1枚食べる",
+
+  "advancements.villagerunknown-villagercoin.edible_coins.root.title": "まだ美味しい！",
+  "advancements.villagerunknown-villagercoin.edible_coins.root.description": "すべての食べられるコインを食べる",
+  
+  "advancements.villagerunknown-villagercoin.pickup_edible_copper_coin.title": "銅の味",
+  "advancements.villagerunknown-villagercoin.pickup_edible_copper_coin.description": "食べられる銅のコインを食べる",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_iron_coin.title": "鉄のひとくち",
+  "advancements.villagerunknown-villagercoin.pickup_edible_iron_coin.description": "食べられる鉄のコインを食べる",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_gold_coin.title": "黄金の風味",
+  "advancements.villagerunknown-villagercoin.pickup_edible_gold_coin.description": "食べられる金のコインを食べる",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_emerald_coin.title": "エメラルドの味わい",
+  "advancements.villagerunknown-villagercoin.pickup_edible_emerald_coin.description": "食べられるエメラルドのコインを食べる",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_netherite_coin.title": "ネザライトのごちそう",
+  "advancements.villagerunknown-villagercoin.pickup_edible_netherite_coin.description": "食べられるネザライトのコインを食べる",
+
+  "advancements.villagerunknown-villagercoin.pickup_half_eaten_edible_copper_coin.title": "半分でもうまい",
+  "advancements.villagerunknown-villagercoin.pickup_half_eaten_edible_copper_coin.description": "半分食べられた銅のコインを食べる",
+
+  "advancements.villagerunknown-villagercoin.pickup_poisonous_edible_copper_coin.title": "毒だった！？",
+  "advancements.villagerunknown-villagercoin.pickup_poisonous_edible_copper_coin.description": "毒のある銅のコインを食べる",
+
+  "advancements.villagerunknown-villagercoin.pickup_moldy_edible_gold_coin.title": "カビても食える",
+  "advancements.villagerunknown-villagercoin.pickup_moldy_edible_gold_coin.description": "カビた金のコインを食べる",
+
+  "advancements.villagerunknown-villagercoin.edible_villager_coins.title": "全て食べよう",
+  "advancements.villagerunknown-villagercoin.edible_villager_coins.description": "すべての種類の食べられるコインを食べる"
+
+}

@@ -1,0 +1,45 @@
+{
+
+  "text.autoconfig.villagerunknown-ediblecoins.title": "VillagerUnknown's Edible Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.edible_copper_villager_coin": "खाने योग्य तांबे का सिक्का",
+  "item.villagerunknown-villagercoin.edible_iron_villager_coin": "खाने योग्य लोहे का सिक्का",
+  "item.villagerunknown-villagercoin.edible_gold_villager_coin": "खाने योग्य सोने का सिक्का",
+  "item.villagerunknown-villagercoin.edible_emerald_villager_coin": "खाने योग्य पन्ना का सिक्का",
+  "item.villagerunknown-villagercoin.edible_netherite_villager_coin": "खाने योग्य नेथराइट का सिक्का",
+
+  "item.villagerunknown-villagercoin.half_eaten_edible_copper_villager_coin": "नम-नम!",
+  "item.villagerunknown-villagercoin.poisonous_edible_copper_villager_coin": "सभी को खाओ",
+  "item.villagerunknown-villagercoin.moldy_edible_gold_villager_coin": "एक खाने योग्य सिक्का खाओ",
+
+  "advancements.villagerunknown-villagercoin.edible_coins.root.title": "अभी भी स्वादिष्ट है!",
+  "advancements.villagerunknown-villagercoin.edible_coins.root.description": "सभी खाने योग्य सिक्कों को खाओ",
+  
+  "advancements.villagerunknown-villagercoin.pickup_edible_copper_coin.title": "तांबे का स्वाद",
+  "advancements.villagerunknown-villagercoin.pickup_edible_copper_coin.description": "एक खाने योग्य तांबे का सिक्का खाओ",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_iron_coin.title": "धातु का निवाला",
+  "advancements.villagerunknown-villagercoin.pickup_edible_iron_coin.description": "एक खाने योग्य लोहे का सिक्का खाओ",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_gold_coin.title": "सोने जैसा स्वाद",
+  "advancements.villagerunknown-villagercoin.pickup_edible_gold_coin.description": "एक खाने योग्य सोने का सिक्का खाओ",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_emerald_coin.title": "खजाने का स्वाद",
+  "advancements.villagerunknown-villagercoin.pickup_edible_emerald_coin.description": "एक खाने योग्य पन्ना का सिक्का खाओ",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_netherite_coin.title": "नेथराइट का स्वाद",
+  "advancements.villagerunknown-villagercoin.pickup_edible_netherite_coin.description": "एक खाने योग्य नेथराइट का सिक्का खाओ",
+
+  "advancements.villagerunknown-villagercoin.pickup_half_eaten_edible_copper_coin.title": "अभी भी स्वादिष्ट है",
+  "advancements.villagerunknown-villagercoin.pickup_half_eaten_edible_copper_coin.description": "आधा खाया हुआ तांबे का सिक्का खाओ",
+
+  "advancements.villagerunknown-villagercoin.pickup_poisonous_edible_copper_coin.title": "यह मिंट नहीं था!",
+  "advancements.villagerunknown-villagercoin.pickup_poisonous_edible_copper_coin.description": "एक ज़हरीला तांबे का सिक्का खाओ",
+
+  "advancements.villagerunknown-villagercoin.pickup_moldy_edible_gold_coin.title": "थोड़ा सड़ा हुआ",
+  "advancements.villagerunknown-villagercoin.pickup_moldy_edible_gold_coin.description": "एक फफूंदी लगा हुआ सोने का सिक्का खाओ",
+
+  "advancements.villagerunknown-villagercoin.edible_villager_coins.title": "सभी खाओ",
+  "advancements.villagerunknown-villagercoin.edible_villager_coins.description": "सभी प्रकार के खाने योग्य सिक्कों को खाओ"
+
+}

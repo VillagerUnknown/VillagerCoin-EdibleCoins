@@ -1,0 +1,45 @@
+{
+
+  "text.autoconfig.villagerunknown-ediblecoins.title": "VillagerUnknown's Edible Coins for Villager Coin",
+
+  "item.villagerunknown-villagercoin.edible_copper_villager_coin": "מטבע נחושת אכיל",
+  "item.villagerunknown-villagercoin.edible_iron_villager_coin": "מטבע ברזל אכיל",
+  "item.villagerunknown-villagercoin.edible_gold_villager_coin": "מטבע זהב אכיל",
+  "item.villagerunknown-villagercoin.edible_emerald_villager_coin": "מטבע אמרלד אכיל",
+  "item.villagerunknown-villagercoin.edible_netherite_villager_coin": "מטבע נדרייט אכיל",
+
+  "item.villagerunknown-villagercoin.half_eaten_edible_copper_villager_coin": "יאמי!",
+  "item.villagerunknown-villagercoin.poisonous_edible_copper_villager_coin": "אכול את כולם",
+  "item.villagerunknown-villagercoin.moldy_edible_gold_villager_coin": "אכול מטבע אכיל אחד",
+
+  "advancements.villagerunknown-villagercoin.edible_coins.root.title": "עדיין טעים!",
+  "advancements.villagerunknown-villagercoin.edible_coins.root.description": "אכול את כל המטבעות האכילים",
+  
+  "advancements.villagerunknown-villagercoin.pickup_edible_copper_coin.title": "טעם של נחושת",
+  "advancements.villagerunknown-villagercoin.pickup_edible_copper_coin.description": "אכול מטבע נחושת אכיל",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_iron_coin.title": "ביס של מתכת",
+  "advancements.villagerunknown-villagercoin.pickup_edible_iron_coin.description": "אכול מטבע ברזל אכיל",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_gold_coin.title": "טעם זהוב",
+  "advancements.villagerunknown-villagercoin.pickup_edible_gold_coin.description": "אכול מטבע זהב אכיל",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_emerald_coin.title": "הטעם של עושר",
+  "advancements.villagerunknown-villagercoin.pickup_edible_emerald_coin.description": "אכול מטבע אמרלד אכיל",
+
+  "advancements.villagerunknown-villagercoin.pickup_edible_netherite_coin.title": "פינוק אפל",
+  "advancements.villagerunknown-villagercoin.pickup_edible_netherite_coin.description": "אכול מטבע נדרייט אכיל",
+
+  "advancements.villagerunknown-villagercoin.pickup_half_eaten_edible_copper_coin.title": "עדיין טעים",
+  "advancements.villagerunknown-villagercoin.pickup_half_eaten_edible_copper_coin.description": "אכול מטבע נחושת חצי אכיל",
+
+  "advancements.villagerunknown-villagercoin.pickup_poisonous_edible_copper_coin.title": "זה לא היה נענע!",
+  "advancements.villagerunknown-villagercoin.pickup_poisonous_edible_copper_coin.description": "אכול מטבע נחושת רעיל",
+
+  "advancements.villagerunknown-villagercoin.pickup_moldy_edible_gold_coin.title": "עם טעם של עובש",
+  "advancements.villagerunknown-villagercoin.pickup_moldy_edible_gold_coin.description": "אכול מטבע זהב עם עובש",
+
+  "advancements.villagerunknown-villagercoin.edible_villager_coins.title": "אכול את כולם",
+  "advancements.villagerunknown-villagercoin.edible_villager_coins.description": "אכול את כל סוגי המטבעות האכילים"
+
+}
