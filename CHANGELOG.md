@@ -6,7 +6,7 @@ All notable changes to this project will be documented in this file.
 
 ### Changed
 
-- Updated supported Minecraft version to 1.21.2.
+- Changed supported Minecraft version to 1.21.2.
 
 ## [1.0.6]
 
